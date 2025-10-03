@@ -43,4 +43,8 @@
 
 ## License
 
-This project is for educational and internal use only.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+Contributions are welcome! Please read `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` before opening issues or pull requests.

@@ -1,0 +1,18 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Executables
+*.exe
+
+# OBS artifacts
+obs_users.json
+obs_configs/
+
+.DS_Store
